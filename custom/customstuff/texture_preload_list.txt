@@ -220,8 +220,11 @@ models/player/items/taunts/engy_new_chair_beer_bottle_blue
 models/player/items/taunts/engy_new_chair_beer_bottle_red
 models/player/items/taunts/lighter_taunt
 models/player/items/taunts/limes
+models/player/items/taunts/loot_crate/mannco_crate
 models/player/items/taunts/medic_xray_viewer
 models/player/items/taunts/nuke_bottle
+models/player/items/taunts/scooter/pauling_moped
+models/player/items/taunts/scooter/wheel
 models/player/items/taunts/soldier_mug
 models/weapons/c_items/c_8mm_camera
 models/weapons/c_items/c_ambassador_opt
@@ -237,6 +240,11 @@ models/weapons/c_items/c_axtinguisher_gold
 models/weapons/c_items/c_axtinguisher_xmas
 models/weapons/c_items/c_backburn
 models/weapons/c_items/c_backburn_blue
+models/weapons/c_items/c_balloon
+models/weapons/c_items/c_balloon_gold
+models/weapons/c_items/c_balloon_grenade
+models/weapons/c_items/c_balloon_grenade_gold
+models/weapons/c_items/c_balloon_grenade_normal
 models/weapons/c_items/c_bow
 models/weapons/c_items/c_boxing_gloves
 models/weapons/c_items/c_boxing_gloves_blue
@@ -245,6 +253,8 @@ models/weapons/c_items/c_boxing_gloves_flames_blue
 models/weapons/c_items/c_boxing_gloves_normal
 models/weapons/c_items/c_boxing_gloves_xmas
 models/weapons/c_items/c_boxing_gloves_xmas_blue
+models/weapons/c_items/c_bread_bagged
+models/weapons/c_items/c_bread_bagged_normal
 models/weapons/c_items/c_bread_baguette
 models/weapons/c_items/c_bread_burnt
 models/weapons/c_items/c_bread_burnt_normal
@@ -257,7 +267,10 @@ models/weapons/c_items/c_bread_crumpet_normal
 models/weapons/c_items/c_bread_plainloaf
 models/weapons/c_items/c_bread_pretzel
 models/weapons/c_items/c_bread_ration
+models/weapons/c_items/c_bread_robo
 models/weapons/c_items/c_bread_russianblack
+models/weapons/c_items/c_bread_shortbread
+models/weapons/c_items/c_bread_shortbread_normal
 models/weapons/c_items/c_breadmonster
 models/weapons/c_items/c_breadmonster_exp
 models/weapons/c_items/c_breadmonster_goo
@@ -332,6 +345,7 @@ models/weapons/c_items/c_sapper_xmas_blue
 models/weapons/c_items/c_shovel
 models/weapons/c_items/c_sniperrifle_scope
 models/weapons/c_items/c_specimin_jar
+models/weapons/c_items/c_sticky_jumper
 models/weapons/c_items/c_syringegun
 models/weapons/c_items/c_syringegun_blue
 models/weapons/c_items/c_syringegun_glass
@@ -356,7 +370,6 @@ models/weapons/c_items/c_wrangler_xmas_blue
 models/weapons/c_items/c_wrangler_xmas_phongmask
 models/weapons/c_items/c_wrench
 models/weapons/c_items/c_wrench_gold
-models/weapons/v_rocketlauncher/v_rocketlauncher01_gold
 models/weapons/c_items/c_xms_backburner_horns
 models/weapons/c_items/c_xms_double_barrel
 models/weapons/c_items/c_xms_double_barrel_blue
@@ -383,7 +396,6 @@ models/weapons/c_models/c_flamethrower/c_flamethrower_blue
 models/weapons/c_models/c_flamethrower/c_flamethrower_exp
 models/weapons/c_models/c_flamethrower/c_flamethrower_gold
 models/weapons/c_models/c_grenadelauncher/c_grenadelauncher
-models/weapons/c_models/c_grenadelauncher/c_grenadelauncher_exp
 models/weapons/c_models/c_grenadelauncher/c_grenadelauncher_gold
 models/weapons/c_models/c_knife/c_knife
 models/weapons/c_models/c_knife/c_knife_gold
@@ -477,6 +489,9 @@ models/weapons/w_stickybomb/w_stickybomb_red_noalpha
 models/weapons/w_stickybomb/w_stickybomb_selfillum
 models/weapons/w_stickybomb_launcher/w_stickybomb_launcher_defender
 models/weapons/w_stickybomb_launcher/w_stickybomb_launcher_normal
+models/workshop/buildables/mini_dispenser/mini_dispenser
+models/workshop/buildables/mini_dispenser/mini_dispenser_blue
+models/workshop/buildables/mini_dispenser/mini_dispenser_phongmask
 models/workshop/cases/invasion_case/invasion_case
 models/workshop/cases/invasion_case/invasion_case_cordon
 models/workshop/cases/invasion_case/invasion_case_normal
@@ -489,6 +504,12 @@ models/workshop/player/items/all_class/taunt_burstchester/taunt_burstchester_nor
 models/workshop/player/items/all_class/zoomin_broom/zoomin_broom_color
 models/workshop/player/items/demo/demo_booties/demo_booties
 models/workshop/player/items/demo/pegleg/pegleg
+models/workshop/player/items/demo/true_scotsmans_call/true_scotsmans_call_1_blue_color
+models/workshop/player/items/demo/true_scotsmans_call/true_scotsmans_call_1_color
+models/workshop/player/items/demo/true_scotsmans_call/true_scotsmans_call_1_normal
+models/workshop/player/items/demo/true_scotsmans_call/true_scotsmans_call_blue_color
+models/workshop/player/items/demo/true_scotsmans_call/true_scotsmans_call_color
+models/workshop/player/items/demo/true_scotsmans_call/true_scotsmans_call_normal
 models/workshop/player/items/engineer/bucking_bronco/bucking_bronco_blue_color
 models/workshop/player/items/engineer/bucking_bronco/bucking_bronco_color
 models/workshop/player/items/engineer/bucking_bronco/bucking_bronco_normal
@@ -521,6 +542,9 @@ models/workshop/player/items/pyro/ghost_aspect/ghost_aspect_color
 models/workshop/player/items/pyro/pyro_halloween_gasmask/pyro_halloween_gasmask_blue_color
 models/workshop/player/items/pyro/pyro_halloween_gasmask/pyro_halloween_gasmask_color
 models/workshop/player/items/pyro/pyro_halloween_gasmask/pyro_halloween_gasmask_normal
+models/workshop/player/items/pyro/taunt_spring_rider/taunt_spring_rider_blue_color
+models/workshop/player/items/pyro/taunt_spring_rider/taunt_spring_rider_color
+models/workshop/player/items/pyro/taunt_spring_rider/taunt_spring_rider_normal
 models/workshop/player/items/pyro/threea_nabler/threea_nabler
 models/workshop/player/items/sniper/croc_shield/croc_shield
 models/workshop/player/items/sniper/croc_shield/croc_shield_normal
@@ -536,6 +560,11 @@ models/workshop/player/items/sniper/xms_sniper_commandobackpack/xms_sniper_comma
 models/workshop/player/items/sniper/xms_sniper_commandobackpack/xms_sniper_commandobackpack_phongmask_jar
 models/workshop/player/items/soldier/mantreads/mantreads
 models/workshop/player/items/soldier/taunt_maggots_condolence/taunt_maggots_condolence_color
+models/workshop/player/items/spy/taunt__au_revoir/taunt__au_revoir_color
+models/workshop/player/items/spy/taunt_hoodoo_hex/taunt_hoodoo_hex_blue_color
+models/workshop/player/items/spy/taunt_hoodoo_hex/taunt_hoodoo_hex_color
+models/workshop/player/items/spy/taunt_sant/taunt_sant_color
+models/workshop/player/items/spy/taunt_sant/taunt_sant_normal
 models/workshop/player/items/spy/taunt_spy_boxtrot/taunt_spy_boxtrot_blue_color
 models/workshop/player/items/spy/taunt_spy_boxtrot/taunt_spy_boxtrot_color
 models/workshop/player/items/spy/taunt_spy_boxtrot/taunt_spy_boxtrot_normal
@@ -545,6 +574,7 @@ models/workshop/weapons/c_models/c_acr_hookblade/c_acr_hookblade
 models/workshop/weapons/c_models/c_acr_hookblade/c_acr_hookblade_normal
 models/workshop/weapons/c_models/c_amputator/c_amputator
 models/workshop/weapons/c_models/c_amputator/c_amputator_blue
+models/workshop/weapons/c_models/c_assault_minigun/c_assault_minigun
 models/workshop/weapons/c_models/c_atom_launcher/c_atom_launcher
 models/workshop/weapons/c_models/c_ava_roseknife/c_ava_roseknife
 models/workshop/weapons/c_models/c_ava_roseknife/c_ava_roseknife_black
@@ -586,12 +616,16 @@ models/workshop/weapons/c_models/c_crusaders_crossbow/c_crusaders_crossbow_xmas
 models/workshop/weapons/c_models/c_crusaders_crossbow/c_crusaders_crossbow_xmas_blue
 models/workshop/weapons/c_models/c_crusaders_crossbow/c_crusaders_crossbow_xmas_proj
 models/workshop/weapons/c_models/c_crusaders_crossbow/c_crusaders_crossbow_xmas_proj_blue
+models/workshop/weapons/c_models/c_dart_gun/c_dart_gun
+models/workshop/weapons/c_models/c_dart_gun/c_dart_gun_dart
+models/workshop/weapons/c_models/c_defib/c_defib_red
 models/workshop/weapons/c_models/c_degreaser/c_degreaser_blue
 models/workshop/weapons/c_models/c_degreaser/c_degreaser_red
 models/workshop/weapons/c_models/c_demo_cannon/c_demo_cannon
 models/workshop/weapons/c_models/c_demo_sultan_sword/c_demo_sultan_sword
 models/workshop/weapons/c_models/c_detonator/c_detonator
 models/workshop/weapons/c_models/c_detonator/c_detonator_blue
+models/workshop/weapons/c_models/c_detonator/c_detonator_phongmask
 models/workshop/weapons/c_models/c_detonator/c_detonator_shell
 models/workshop/weapons/c_models/c_detonator/c_detonator_shell_blue
 models/workshop/weapons/c_models/c_detonator/c_detonator_shell_phongmask
@@ -661,6 +695,7 @@ models/workshop/weapons/c_models/c_medigun_defense/c_medigun_defense
 models/workshop/weapons/c_models/c_medigun_defense/c_medigun_defense_blue
 models/workshop/weapons/c_models/c_medigun_defense/c_medigun_defensepack
 models/workshop/weapons/c_models/c_medigun_defense/c_medigun_defensepack_blue
+models/workshop/weapons/c_models/c_mortar_launcher/c_mortar_launcher
 models/workshop/weapons/c_models/c_paintrain/c_paintrain
 models/workshop/weapons/c_models/c_paratrooper_pack/c_paratrooper_pack
 models/workshop/weapons/c_models/c_paratrooper_pack/c_paratrooper_pack_normal
@@ -670,6 +705,10 @@ models/workshop/weapons/c_models/c_persian_shield/c_persian_shield
 models/workshop/weapons/c_models/c_persian_shield/c_persian_shield_spike
 models/workshop/weapons/c_models/c_picket/c_picket
 models/workshop/weapons/c_models/c_picket/c_picket_paper
+models/workshop/weapons/c_models/c_pilot_flamer/c_pilot_flamer
+models/workshop/weapons/c_models/c_pilot_flaregun/c_pilot_flare
+models/workshop/weapons/c_models/c_pilot_flaregun/c_pilot_flaregun
+models/workshop/weapons/c_models/c_pistol_knife/c_pistol_knife
 models/workshop/weapons/c_models/c_powerjack/c_powerjack_blue
 models/workshop/weapons/c_models/c_powerjack/c_powerjack_red
 models/workshop/weapons/c_models/c_pro_rifle/c_pro_rifle
@@ -678,6 +717,7 @@ models/workshop/weapons/c_models/c_quadball/c_quadball
 models/workshop/weapons/c_models/c_quadball/w_quadball_grenade_blue
 models/workshop/weapons/c_models/c_quadball/w_quadball_grenade_red
 models/workshop/weapons/c_models/c_reserve_shooter/c_reserve_shooter
+models/workshop/weapons/c_models/c_revolver_sniperrifle/c_revolver_sniperrifle
 models/workshop/weapons/c_models/c_rfa_hammer/c_rfa_hammer
 models/workshop/weapons/c_models/c_riding_crop/c_riding_crop
 models/workshop/weapons/c_models/c_rift_fire_axe/c_rift_fire_axe
@@ -691,11 +731,14 @@ models/workshop/weapons/c_models/c_scorch_shot/c_scorch_shot
 models/workshop/weapons/c_models/c_scotland_shard/c_scotland_shard
 models/workshop/weapons/c_models/c_scout_sword/c_scout_sword
 models/workshop/weapons/c_models/c_shortstop/c_shortstop
+models/workshop/weapons/c_models/c_silenced_pistol_instructor/c_silenced_pistol_instructor
 models/workshop/weapons/c_models/c_skullbat/c_skullbat_hats
 models/workshop/weapons/c_models/c_skullbat/c_skullbat_hats_blue
 models/workshop/weapons/c_models/c_skullbat/c_skullbat_skeleton
 models/workshop/weapons/c_models/c_sledgehammer/c_sledgehammer
 models/workshop/weapons/c_models/c_sledgehammer/c_sledgehammer_phongmask
+models/workshop/weapons/c_models/c_sniperrifle_tv/c_sniperrifle_tv_blue
+models/workshop/weapons/c_models/c_sniperrifle_tv/c_sniperrifle_tv_red
 models/workshop/weapons/c_models/c_snub_nose/c_snub_nose
 models/workshop/weapons/c_models/c_soda_popper/c_soda_popper
 models/workshop/weapons/c_models/c_spikewrench/c_spikewrench
@@ -709,6 +752,7 @@ models/workshop/weapons/c_models/c_tele_shotgun/c_tele_shotgun_illum
 models/workshop/weapons/c_models/c_tele_shotgun/c_tele_shotgun_tv
 models/workshop/weapons/c_models/c_tomislav/c_tomislav
 models/workshop/weapons/c_models/c_tomislav/c_tomislav_gold
+models/workshop/weapons/c_models/c_trench_shotgun/c_trench_shotgun
 models/workshop/weapons/c_models/c_trenchgun/c_trenchgun
 models/workshop/weapons/c_models/c_ttg_max_gun/c_ttg_max_gun
 models/workshop/weapons/c_models/c_ttg_sam_gun/c_ttg_sam_gun
@@ -726,6 +770,7 @@ models/workshop/weapons/c_models/c_xms_giftwrap/c_xms_giftwrap_blue
 models/workshop/weapons/c_models/c_xms_gloves/c_xms_gloves
 models/workshop/weapons/c_models/c_xms_gloves/c_xms_gloves_blue
 models/workshop/weapons/c_models/c_xms_gloves/c_xms_gloves_normal
+models/workshop/weapons/c_models/c_xms_gloves/c_xms_gloves_ushanka
 models/workshop_partner/weapons/c_models/c_ai_flamethrower/c_ai_flamethrower
 models/workshop_partner/weapons/c_models/c_ai_flamethrower/c_ai_flamethrower_blue
 models/workshop_partner/weapons/c_models/c_bet_rocketlauncher/c_bet_rocketlauncher
